@@ -148,15 +148,6 @@ Working on AI/ML software solutions using Python, FastAPI, Flask and Django, inc
 
 ---
 
-## 🎓 Education
-
-**B.Tech — Electronics & Communication Engineering**
-
-Vivekananda Institute of Technology and Science, Karimnagar
-
-**Graduated:** 2024 · **CGPA:** 7.38
-
----
 
 ## 📫 Let's Connect
 
