@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi 👋, I'm Shivani
 
-<!--
-**Shivani-crypto/Shivani-crypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI/ML & Python Developer
 
-Here are some ideas to get you started:
+Machine Learning • Deep Learning • NLP • Computer Vision
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👋 About Me
+
+I build practical AI/ML applications using Python, with a focus
+on NLP, Computer Vision and Machine Learning.
+
+## 🛠️ Tech Stack
+
+- Python
+- NumPy
+- Pandas
+- Scikit-learn
+- TensorFlow
+- PyTorch
+- OpenCV
+- Git
+
+## 🚀 Featured Projects
+
+- 📝 AI Resume Analyzer
+- 🧬 Chemotherapy Detection
+- 💊 Chemotherapy Dosage Prediction
+- 🤖 RAG Document Assistant
+- 👁️ Object Detection
+
+## 📊 GitHub Stats
+
+<!-- stats go here -->
+
+## 📫 Connect With Me
+
+- LinkedIn  :  https://www.linkedin.com/in/chittam-shivani/
+- Email     :  shivanichittam56@gmail.com
