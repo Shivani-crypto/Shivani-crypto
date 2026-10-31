@@ -142,7 +142,7 @@
 
 ### Software Developer — TruProjects, Hyderabad
 
-**August 2024 – Present**
+**June 2025 – Present**
 
 Working on AI/ML software solutions using Python, FastAPI, Flask and Django, including Generative AI, LLM, RAG, semantic retrieval, document processing, REST APIs and AI-powered automation.
 
